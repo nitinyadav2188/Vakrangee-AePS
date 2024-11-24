@@ -10,9 +10,6 @@ A professional and responsive landing page for Vakrangee AePS (Aadhaar Enabled P
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
-- [Responsive Design](#responsive-design)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
